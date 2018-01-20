@@ -1,0 +1,17 @@
+1. Exchange the Call Sign and Name position
+2. Resolved the TX permit issue.
+TX Permit is not consistent when set to Different Color Code.   Sometimes the radio allows transmit 
+at times when it should deny transmit
+3. Resolved the 2Tone decode crashing issue.
+If  you  use  the  radio  on  a  channel  with  2Tone  Decode  selected  OFF  in  the  CPS,  and  
+select  Menu>Settings>Chan Set>2tone Dec on the radio to change 2Tone Decode option, the radio will 
+stop functioning
+
+4. Change the words.
+Copying data to the radio. Please wait. Not power off => Do not power off.
+5. Increase the Squelch Off option for Analog mode.
+6. Reduce the volume of Indoor mode.
+7. Add the repeater icon in analog mode.
+8. Resolved the issue that the last caller information is incorrect in Digital monitor mode.
+9. Compress the CPS file, especially for the small codeplug.
+10. Allow duplicate the DMR/TG ID for group call type and private call type.
